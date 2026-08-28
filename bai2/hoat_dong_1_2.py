@@ -20,6 +20,11 @@ print("Ho ten: {} - Nam sinh: {} - DTB: {:.2f}".format(ho_ten, nam_sinh, diem_tb
 print("Ho ten: %s - Nam sinh: %d - DTB: %.2f" % (ho_ten, nam_sinh, diem_tb))
 
 print("\n=== Bai tap 2.1: Chu thich ===")
+# Chu thich mot dong: khai bao thong tin sinh vien
+"""
+Chu thich/docstring nhieu dong:
+Chuong trinh quan ly diem sinh vien - Buoi 2
+"""
 ho_ten_2_1 = "Tran Thi B"
 print(f"Khoi tao ho ten trong BT 2.1 thanh cong: {ho_ten_2_1}")
 
