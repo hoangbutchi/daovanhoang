@@ -3,7 +3,7 @@ print("=== Hoat dong 7: Quan ly diem sinh vien ===")
 quan_ly_diem = {
     "Nguyen Van A": [8.0, 7.5, 9.0],
     "Tran Thi B": [6.0, 6.5, 5.5],
-    "Le Van C": [9.0, 9.5, 8.5],
+    "Le Van C": [9.0, 9.5, 8.5]
 }
 
 quan_ly_diem["Pham Thi D"] = [7.0, 8.0, 7.5]

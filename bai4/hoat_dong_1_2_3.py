@@ -8,6 +8,7 @@ sinh_vien = {
 print(sinh_vien["ho_ten"])
 print(sinh_vien.get("diem_tb"))
 print(sinh_vien.get("lop", "Chua co"))
+print(sinh_vien)
 
 
 print("\n=== Bai tap 1.2 ===")
